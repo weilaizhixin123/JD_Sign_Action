@@ -13,7 +13,7 @@ on:
     types: started
     
 env:
-  JD_COOKIE: ${{ secrets.JD_COOKIE }}
+  JD_COOKIE: ${{ secrets.AAJf8Z-jADDjzf_sOyzezEYZTvn-UVwS6fguoY-I4puz1epysJMHXOLCgFYVdaNBIc5uSMtrZOM }}
   JD_DUAL_COOKIE: ${{ secrets.JD_DUAL_COOKIE }}
   PUSH_KEY: ${{ secrets.PUSH_KEY }}
   UPLOAD_BESULT_DIR: true
